@@ -32,3 +32,8 @@ HowTo
   - nice example of hw/sw setup
 - [Nat & Lo - How Google Built the Pixel 2 Camera](https://www.youtube.com/watch?v=PIbeiddq_CQ)
   - good screenplay
+
+# Video Cut examples
+- software zoom: https://youtu.be/dSPPrb0J8CY?t=179
+  - It uses software zoom to simulate multiple cameras
+
